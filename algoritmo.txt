@@ -1,0 +1,55 @@
+Algoritmo 
+
+	Base: 
+
+1. Definir la variable que contiene el valor del costo base 
+
+2. Definir los valores de los recargos de las variables para los rangos de edad de los asegurados 
+
+3. Definir los valores de los recargos de las variables para los rangos de edad de los conyugues 
+
+4. Definir el valor del recargo para la variable de la cantidad de hijos.  
+
+5. Definir la variable de recargo, recargo total, y precio final.  
+
+ 
+
+Ejecución:  
+
+1. Solicitar el nombre del cliente 
+
+2. Solicitar la edad del cliente 
+
+3. Evaluar si es mayor de edad para calificar a la cotización 
+
+4. De no hacerlo se debe terminar el programa 
+
+5. Solicitar información sobre si tiene conyugue o no 
+
+6. De tenerlo solicitar la edad 
+
+7. Inicializar una variable de edad en número con valor 0 
+
+8. Convertir la edad de texto a numero y asignar el valor a la variable de edad en número  
+
+9. Preguntar al usuario si tiene hijos o no 
+
+10. Definir una variable para cantidad de hijos con valor cero 
+
+11. De tenerlos preguntar la cantidad  
+
+12. Convertir la cantiad de texto a numero y asignar el valor a la variable de cantiad de hijos 
+
+13. Calcular el recargo en base al rango de edades y sumarlo al recargo total 
+
+14. Calcular el recargo por conyugue en base al rando de edades y sumarlo al recargo total 
+
+15. Calcular el recargo por hijos y sumarlo al recargo total 
+
+16. Sumar el valor base y recargo total y asignar el valor a l precio final 
+
+17. Mostrar en pantalla el nombre del asegurado 
+
+18. Mostrar en pantalla el recargo total 
+
+19. Mostrar en pantalla el precio final 

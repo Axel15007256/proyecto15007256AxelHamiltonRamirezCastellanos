@@ -1,0 +1,5 @@
+La empresa TK-U, necesita automatizar las cotizaciones de sus posibles clientes.
+La implementación debe básicamente tomar el nombre del asegurado, evaluar la edad para determinar si califica.
+Identificar si tiene cónyuge y de tenerlo que edad tiene. Luego debe determinar si tiene hijos, y de tenerlos cual es la cantidad. 
+Finalmente, basado en esta información el programa debe calcular los recargos cuyos porcentajes ya están definidos que se aplicaran al costo básico del seguro 
+y debe dar el resultado total de la cotización.  
